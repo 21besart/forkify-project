@@ -3,7 +3,7 @@ import previewView from './previewView.js';
 
 class bookmarksView extends View {
   _parentElement = document.querySelector('.bookmarks__list');
-  _errorMessage = 'No bookmarks found! Find a nice recipe and bookmark it (;)';
+  _errorMessage = 'No bookmarks found! Find a nice recipe and bookmark it ;)';
   _message = 'smile';
 
   addHandlerRender(handler) {
