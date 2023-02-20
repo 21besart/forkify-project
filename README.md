@@ -21,7 +21,7 @@ This project is done with [JavaScript](https://www.javascript.com/) and [Parcel]
 
 ## Live Version
 
-TO DO: Deploy to Netlify
+[Live Version](https://forkifybesart.netlify.app/)
 
 ## Getting Started
 
